@@ -22,7 +22,9 @@ __pycache__/
 Thumbs.db  # Windows
 .DS_Store  # macOS
 
-# Файл tmp_data.txt
-
+# Файлы temp и tmp_data.txt
 temp*
 tmp*
+
+#.env
+.env
